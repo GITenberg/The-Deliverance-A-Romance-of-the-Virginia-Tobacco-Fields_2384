@@ -1,5 +1,5 @@
 _repo: The-Deliverance-A-Romance-of-the-Virginia-Tobacco-Fields_2384
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Virginia -- Fiction'
 - !lcc 'PS'
 - !lcsh 'Tobacco farmers -- Fiction'
+- GITenberg
 title: 'The Deliverance: A Romance of the Virginia Tobacco Fields'
 url: http://www.gutenberg.org/ebooks/2384
